@@ -1,6 +1,7 @@
 #  Projet : Compteurs Interactifs  
 TP Réseaux – L3 SPI  
-Auteur : momo12235554  
+Auteur : Momo belrhali 
+git:momo12235554  
 
 Ce projet consiste à développer un système de compteur interactif avec trois modes différents :  
 
